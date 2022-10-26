@@ -1,4 +1,6 @@
-### Hi there 👋, My Name is Angelo Ferro but you can call me as |SIG| 😎
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9202F7&section=header&text=&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=35"/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Arbutus&size=40&duration=4000&pause=400&color=9202F7&vCenter=true&width=1000&lines=Hi+there+%F0%9F%91%8B%2C+My+Name+is+Angelo+Ferro+;but+you+can+call+me+as+%7CSIG%7C+%F0%9F%98%8E)](https://git.io/typing-svg)
 
 ##
 
@@ -64,5 +66,15 @@
 
   ##
   
+<div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"style="color:#9202F7"><img align="center" src="https://profile-counter.glitch.me/{Angelox99}/count.svg" /></p> 
+<br></div>
+
+  ##
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9202F7&section=footer&text=&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
+
+
 	
   
