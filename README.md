@@ -19,7 +19,7 @@
 			<td align="center">
   <a href="https://github.com/Angelox99">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Angelox99&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-  <img height="118em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Angelox99&layout=compact&langs_count=7&theme=midnight-purple"/>
+  <img height="215em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Angelox99&layout=compact&langs_count=7&theme=midnight-purple"/>
       </td>
 			<td>
   <img align="right" alt="SIG-pic" height="400" style="border-radius:50px;" src="https://static.wikia.nocookie.net/biblioteca-de-calnat/images/e/e1/Sieg_base.png/revision/latest/scale-to-width-down/1000?cb=20200601060342&path-prefix=pt-br">
