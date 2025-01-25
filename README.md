@@ -4,12 +4,12 @@
 
 ##
 
-- 🔭 I’m currently working on SEFAZ with java.
-- 🌱 I’m currently learning Java and C.
-- 🤔 I’m looking for help with Java.
+- 🔭 I’m currently searching for a job.
+- 🌱 I’m currently learning Front-End.
+- 🤔 I’m looking for help with Front-End, Game Design and 3D Modeling.
 - 💬 Ask me about Animes,Mangas and Games.
 - 📫 How to reach me: Angelo.sonic@gmail.com
-- ⚡ Fun fact: I don't like cold but my dreans is to live in  Canada-Vancouver
+- ⚡ Fun fact: I don't like cold but my dreans is to live in Canada-Vancouver.
 
 ##
 
