@@ -11,6 +11,12 @@
 - 📫 How to reach me: Angelo.sonic@gmail.com
 - ⚡ Fun fact: I don't like cold but my dreans is to live in Canada-Vancouver.
 
+## 
+
+#30NitesOfCode:
+[Check out my progress!](https://www.codedex.io/@Angelox99/30-nites-of-code)  
+![@Angelox99 #30NitesOfCode](https://www.codedex.io/api/petStatus?user=Angelox99)
+
 ##
 
 <table align="center">
